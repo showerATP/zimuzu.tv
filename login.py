@@ -4,7 +4,6 @@
 import requests
 
 #params = {'account': 'zumlic92476@chacuo.net', 'password': 'zumlic92476'}
-params = {'account': 'zhangshower@126.com', 'password': 'hishower'}
 
 def getCookie():
 
